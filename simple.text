@@ -1,0 +1,7 @@
+// my first program in java
+
+class simple{
+   public static void main(string[] args) {
+      system.out.println("welcome to git online training");
+    }
+}    
